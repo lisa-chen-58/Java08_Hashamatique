@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Set;
-import javax.swing.plaf.basic.BasicSliderUI.TrackListener;
+// import javax.swing.plaf.basic.BasicSliderUI.TrackListener;
 
 public class Hashmatique {
 // Create a trackList of type HashMap
